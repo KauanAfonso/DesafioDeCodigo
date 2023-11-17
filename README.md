@@ -1,3 +1,3 @@
 # DesafioDeCodigo
 
-Desafio de Js na plataforma DIO, o objetivo era criar um classificador de nível de herói.
+Desafio de Js na plataforma DIO, em um bootcamp de programação do zero.
